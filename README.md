@@ -27,10 +27,6 @@ To get started with this project, ensure you have Microsoft Excel installed on y
 
 Contributions, feedback, and suggestions are welcome! Fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
 ---
 
 ## Conclusion: Insights and Recommendations
